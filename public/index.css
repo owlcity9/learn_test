@@ -1,0 +1,13 @@
+html,body{
+    width: 100%;
+    /* height: calc(100vh); */
+    height: 99.7%;
+    padding:0;
+    margin:0;
+    /* background-color:lightgrey; */
+}
+#app{
+    /* background-color: brown; */
+    width: 100%;
+    height: 100%;
+}

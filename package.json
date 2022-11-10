@@ -1,0 +1,23 @@
+{
+  "name": "my_network_vue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@antv/g2plot": "^2.4.20",
+    "@antv/g6": "^4.7.10",
+    "@antv/l7": "^2.10.1",
+    "@antv/l7-maps": "^2.10.1",
+    "3d-force-graph": "^1.70.14",
+    "echarts": "^5.4.0",
+    "three": "^0.146.0",
+    "vue": "^3.2.38"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
